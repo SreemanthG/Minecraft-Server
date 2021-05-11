@@ -1,44 +1,5 @@
-[06:02:17] [Server thread/INFO]: GaribMiner[/127.0.0.1:52768] logged in with entity id 564084 at (-234.77869701429236, 64.0, -471.0804711768669)
-[06:02:17] [Server thread/INFO]: GaribMiner joined the game
-[06:02:28] [Server thread/INFO]: GaribMiner lost connection: Disconnected
-[06:02:28] [Server thread/INFO]: GaribMiner left the game
-[06:02:40] [Server thread/INFO]: GaribMiner[/127.0.0.1:52804] logged in with entity id 564613 at (-233.87471644928556, 64.0, -466.9170648018803)
-[06:02:40] [Server thread/INFO]: GaribMiner joined the game
-[06:04:03] [Server thread/INFO]: ChindiChor[/127.0.0.1:52926] logged in with entity id 565497 at (-8.5, 67.0, 20.5)
-[06:04:03] [Server thread/INFO]: ChindiChor joined the game
-[06:07:41] [Server thread/INFO]: gshetty[/127.0.0.1:53266] logged in with entity id 566960 at (-83.96869837484844, 57.0, -505.4250187508255)
-[06:07:41] [Server thread/INFO]: gshetty joined the game
-[06:08:01] [Server thread/INFO]: <GaribMiner> discord
-[06:08:16] [Server thread/INFO]: <gshetty> 2mins
-[06:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[06:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[06:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[06:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
-[06:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
-[06:10:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[06:10:58] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.2643137674003242
-[06:10:59] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.2917786293514837
-[06:11:00] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.25230799739165377
-[06:11:00] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.2808642922919944
-[06:11:00] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.28092701248502294
-[06:11:00] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.3090913699908242
-[06:11:02] [Server thread/WARN]: Horse (vehicle of gshetty) moved wrongly! 0.30034063437261693
-[06:12:28] [Server thread/INFO]: KillerBreadMan[/127.0.0.1:53718] logged in with entity id 570981 at (-135.66859920408007, 88.0, -444.2824475887643)
-[06:12:28] [Server thread/INFO]: KillerBreadMan joined the game
-[06:12:34] [Server thread/INFO]: <GaribMiner> discord
-[06:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[06:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
-[06:14:00] [Server thread/WARN]: KillerBreadMan moved too quickly! -4.508401649421955,0.0,8.952336606024232
-[06:14:09] [Server thread/WARN]: KillerBreadMan moved too quickly! 7.1982287781926,0.0,-6.9677859303533864
-[06:14:21] [Server thread/INFO]: KillerBreadMan lost connection: Disconnected
-[06:14:21] [Server thread/INFO]: KillerBreadMan left the game
-[06:14:24] [Server Watchdog/FATAL]: A single server tick took 60.04 seconds (should be max 0.05)
-[06:14:33] [Server thread/INFO]: GaribMiner lost connection: Timed out
-[06:14:35] [Server thread/INFO]: GaribMiner left the game
-[06:14:36] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[06:14:43] [Server thread/INFO]: ChindiChor lost connection: Timed out
-[06:14:44] [Server thread/INFO]: ChindiChor left the game
-[06:14:55] [Server thread/INFO]: gshetty lost connection: Timed out
-[06:14:55] [Server thread/INFO]: gshetty left the game
-[06:15:07] [Server thread/WARN]: handleDisconnection() called twice
-[06:15:07] [Server thread/WARN]: handleDisconnection() called twice
+[06:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26927ms or 538 ticks behind
+[06:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6126ms or 122 ticks behind
+[06:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[07:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29284ms or 585 ticks behind
+[07:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20978ms or 419 ticks behind
